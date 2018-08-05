@@ -1,0 +1,8 @@
+Plugin-SymbolicName: BlogManagerPlugin
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: https://github.com/Waleon
+Plugin-Description: A plugin for Blog
+Plugin-Name: BlogManagerPlugin
+Plugin-Vendor: Waleon
+Plugin-Version: 1.0.0
